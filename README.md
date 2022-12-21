@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<link rel="me" href="https://hachyderm.io/@ferrata"> </link>
+<a href="https://hachyderm.io/@ferrata" rel="me"></a>
 
 <!--
 **ferrata/ferrata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
